@@ -9,8 +9,5 @@ const locationDhaka = {
 const { title } = locationDhaka;
 const {coords:{lat,lng}} = locationDhaka;
 
-lat = 'jdjbvjd';
-
-
 console.log(title);
 console.log(lat,lng);
